@@ -3,7 +3,7 @@
 This project link is in there [click here](https://bikeshop-8705b.web.app/).
 
 ## Description
-This is bike-showroom type website where lots of bikes are displayed and users can buy those. There are also a admin route where only admin can access this routes and he can add any products also he can delete and see what type of product users choose. He can delete chosen product and submit the response.
+This is a bike-showroom type website where lots of bikes are displayed and users can buy those. There is also an admin route where only the admin can access this route and he can add any products also he can delete and see what type of product users choose. He can delete the chosen product and submit the response.
 
 ## Importent Notes
 * Features: HTML, CSS, JavaScript, React Js, Bootstrap, React Router, Firebase, MongoDB.
